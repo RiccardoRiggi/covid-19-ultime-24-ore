@@ -6,20 +6,15 @@ A destra di ogni valore è possibile vedere la differenza rispetto al giorno pre
 
 I dati sono forniti dalla Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile ([vedi repository ufficiale](https://github.com/pcm-dpc/COVID-19)).
 
+## Anteprima
 
-## Getting Started
+Schermata principale
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-This project is a starting point for a Flutter application.
+Schermata informazioni
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
 ## Licenza
 
-Il progetto eredita la licenza 
+Il progetto eredita la licenza CC-BY-4.0 secondo indicazioni del Dipartimento di Protezione Civile. 
