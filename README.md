@@ -9,12 +9,12 @@ I dati sono forniti dalla Presidenza del Consiglio dei Ministri - Dipartimento d
 ## Anteprima
 
 Schermata principale
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Schermata principale](https://raw.githubusercontent.com/RiccardoRiggi/covid-19-ultime-24-ore/master/preview/Schermata%20Principale.jpg)
 
 Schermata informazioni
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Schermata informazioni](https://raw.githubusercontent.com/RiccardoRiggi/covid-19-ultime-24-ore/master/preview/Schermata%20Informazioni.jpg)
 
 
 ## Licenza
 
-Il progetto eredita la licenza CC-BY-4.0 secondo indicazioni del Dipartimento di Protezione Civile. 
+Il progetto eredita la licenza CC-BY-4.0 come da indicazioni del Dipartimento di Protezione Civile. 
