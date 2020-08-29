@@ -1,6 +1,11 @@
-# covid_19
+# Covid 19 - Report ultime 24 ore
 
-A new Flutter project.
+Progetto sviluppato in Flutter e Dart. 
+Dalla schermata principale è possibile monitorare l'evoluzione del coronavirus a livello nazionale. Si possono vedere i numeri delle persone contagiate, guarite, decedute, i casi totali e il numero di tamponi eseguiti.
+A destra di ogni valore è possibile vedere la differenza rispetto al giorno precedente.
+
+I dati sono forniti dalla Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile ([vedi repository ufficiale](https://github.com/pcm-dpc/COVID-19)).
+
 
 ## Getting Started
 
@@ -14,3 +19,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Licenza
+
+Il progetto eredita la licenza 
