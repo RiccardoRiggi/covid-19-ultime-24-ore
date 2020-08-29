@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:url_launcher/url_launcher.dart';
 
+
+/*
+  CLASSE CHE CONTIENE LA SCHERMATA DEI CREDITI
+*/
 class SchermataCrediti extends StatelessWidget {
   final String descrizioneUno =
       "I dati relativi al Coronavirus mostrati in quest'applicazione vengono forniti dal Dipartimento della Protezione Civile";
